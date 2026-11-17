@@ -1,0 +1,9 @@
+{
+  "name": "fabric-of-space",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The solar system in 3D with real orbits and Newton's field, checked against NASA JPL positions.",
+  "scripts": { "check": "node check.mjs" },
+  "devDependencies": { "puppeteer-core": "25.15.0" }
+}
